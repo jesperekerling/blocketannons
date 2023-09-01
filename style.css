@@ -25,9 +25,13 @@ header a {
 }
 header li { font-size: 120%; font-weight: 600;}
 header nav { display: inline }
+.hogersida {
+    float: right;
+    padding-right: 3rem;
+}
 nav ul { display: inline }
 nav li {
-    display: inline;
+    display: inline-block;
     padding: 1rem;
 }
 .annons {
