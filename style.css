@@ -54,6 +54,12 @@ nav li {
     line-height: 1.5;
     font-weight: 600;
 }
+.categories ul {
+    list-style: none;
+}
+.categories svg {
+    width: 80px;
+}
 button {
     padding: 1rem 2rem;
     background-color: rgb(21, 121, 21);
