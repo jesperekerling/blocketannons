@@ -54,8 +54,8 @@ nav li {
     line-height: 1.5;
     font-weight: 600;
 }
-.categories ul {
-    list-style: none;
+.categories li {
+    list-style-type: none;
 }
 .categories svg {
     width: 80px;
