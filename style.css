@@ -1,5 +1,6 @@
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
 }
 
 a {
@@ -9,20 +10,36 @@ a {
 header, main {
     margin: 1.5%;
 }
+header {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 2rem;
+    display: block;
+    width: 100%;
+}
 main { margin-top:3%; }
 header a {
     text-decoration: none;
     color: #000;
 }
-header li { font-size: 120%;}
+header li { font-size: 120%; font-weight: 600;}
 header nav { display: inline }
 nav ul { display: inline }
 nav li {
     display: inline;
     padding: 1rem;
 }
+.annons {
+    margin: 4rem 0;
+}
+.annons div {
+    display: inline-block;
+}
 .annons img {
-    width: 200px;
+    width: 150px;
+}
+.annons .annonsinfo {
+    vertical-align: top;
+    padding-left: 3%;
 }
 
 button {
