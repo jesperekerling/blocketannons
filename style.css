@@ -8,6 +8,10 @@ nav li {
     display: inline;
     padding: 1rem;
 }
+.annons img {
+ width: 300px;
+}
+
 button {
     padding: 1rem 2rem;
     background-color: rgb(54, 208, 54);
