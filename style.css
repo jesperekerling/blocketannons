@@ -47,10 +47,10 @@ nav li {
     vertical-align: top;
     padding-left: 3%;
 }
-.regioner {
+.list-links {
     font-size: 140%;
 }
-.regioner li {
+.list-links li {
     line-height: 1.5;
     font-weight: 600;
 }
