@@ -29,6 +29,9 @@ header nav { display: inline }
     float: right;
     padding-right: 3rem;
 }
+.hogersida button {
+    padding: 0.5 1rem !important;
+}
 nav ul { display: inline }
 nav li {
     display: inline-block;
@@ -48,7 +51,7 @@ nav li {
     padding-left: 3%;
 }
 .list-links {
-    font-size: 140%;
+    font-size: 150%;
 }
 .list-links li {
     line-height: 1.5;
@@ -64,6 +67,12 @@ nav li {
     margin: 1rem 1rem 0 0px;
     border-radius: 0.4rem;
     background-color: #f9f9f9;
+}
+.categories a {
+    text-decoration: none;
+    background: -webkit-linear-gradient(#004aff, #4431ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .categories svg {
     width: 80px;
