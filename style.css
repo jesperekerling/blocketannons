@@ -43,7 +43,13 @@ nav li {
     vertical-align: top;
     padding-left: 3%;
 }
-
+.regioner {
+    font-size: 140%;
+}
+.regioner li {
+    line-height: 1.5;
+    font-weight: 600;
+}
 button {
     padding: 1rem 2rem;
     background-color: rgb(54, 208, 54);
