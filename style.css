@@ -54,11 +54,17 @@ nav li {
     line-height: 1.5;
     font-weight: 600;
 }
+.categories {
+    display: block;
+}
 .categories li {
     list-style-type: none;
+    display: inline-block;
+    padding: 1rem;
 }
 .categories svg {
     width: 80px;
+    display: block;
 }
 button {
     padding: 1rem 2rem;
