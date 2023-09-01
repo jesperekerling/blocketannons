@@ -5,6 +5,9 @@ body {
 a {
     color: darkblue;
 }
+a:link {
+    color: blue;
+}
 
 header, main {
     margin: 1.5%;
