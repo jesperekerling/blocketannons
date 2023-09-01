@@ -30,7 +30,8 @@ header nav { display: inline }
     padding-right: 3rem;
 }
 .hogersida button {
-    padding: 0.5 1rem !important;
+    padding: 0.6rem 2.1rem !important;
+    font-size: 90%;
 }
 nav ul { display: inline }
 nav li {
