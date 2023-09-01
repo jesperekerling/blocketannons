@@ -1,3 +1,7 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 a {
     color: darkblue;
 }
@@ -7,6 +11,7 @@ header, main {
 }
 main { margin-top:3%; }
 header a { text-decoration: none;}
+header li { font-size: 120%;}
 header nav { display: inline }
 nav ul { display: inline }
 nav li {
