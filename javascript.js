@@ -26,3 +26,14 @@ const firstName = "Jesper";
 console.log(firstName);
 console.log(firstName + " is " + age + " years old and cool");
 
+/*
+
+En kommentar på flera rader
+Rad 2
+Rad 3
+
+*/
+
+const a = [] // en tom array
+const b = [1, 2, 3, 4, 5];
+console.log(b[0]);
