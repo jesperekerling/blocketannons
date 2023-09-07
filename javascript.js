@@ -44,3 +44,8 @@ const u = 2;
 const i = "2"
 console.log(u == i);
 console.log(u === i);
+
+
+let lastName = "Jones";
+lastName = "Anderson"; // Med let så kan vi ändra en varibel vid senare tillfällen
+console.log(lastName);
