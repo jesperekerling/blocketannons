@@ -2,10 +2,6 @@ console.log("Hello World!");
 const numberTwo = 2;
 console.log(numberTwo);
 
-const pi = 3.141592653589793;
-
-console.log(pi);
-
 const longerMessage = "Hello World!!\n Text på ny rad";
 console.log(longerMessage);
 
@@ -37,3 +33,8 @@ Rad 3
 const a = [] // en tom array
 const b = [1, 2, 3, 4, 5];
 console.log(b[0]);
+
+const pi = 3.141592653589793;
+const radius = 10;
+const area = radius * radius * pi;
+console.log(area);
