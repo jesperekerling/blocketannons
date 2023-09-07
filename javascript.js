@@ -10,3 +10,8 @@ const longerMessage = "Hello World!!\n Text på ny rad";
 console.log(longerMessage);
 
 console.log(2023-1985);
+
+const isProgammingBoring = false;
+const doesProgrammingRequireHardWork = true;
+console.log(isProgammingBoring);
+console.log(doesProgrammingRequireHardWork);
