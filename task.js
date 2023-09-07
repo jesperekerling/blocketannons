@@ -1,8 +1,8 @@
 brand = "Audi"
 modelYear = 2000
 model = "A3"
-currentMileage = 3000
-bigServiceMileage = 6000
+currentMileage = 7410
+bigServiceMileage = 10000
 
 let message = `You own a ${brand} ${model} that has been driven for ${currentMileage} km`
 console.log(message);
