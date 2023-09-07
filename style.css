@@ -71,9 +71,7 @@ nav li {
 }
 .categories a {
     text-decoration: none;
-    background: -webkit-linear-gradient(#004aff, #4431ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #004aff;
 }
 .categories svg {
     width: 80px;
