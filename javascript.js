@@ -33,6 +33,7 @@ Rad 3
 const a = [] // en tom array
 const b = [1, 2, 3, 4, 5];
 console.log(b[0]);
+console.log(b);
 
 const pi = 3.141592653589793;
 const radius = 10;
@@ -40,12 +41,33 @@ const area = radius * radius * pi;
 console.log(area);
 
 
-const u = 2;
+const u = 2
 const i = "2"
-console.log(u == i);
-console.log(u === i);
+console.log(u == i)
+console.log(u === i)
 
 
-let lastName = "Jones";
-lastName = "Anderson"; // Med let så kan vi ändra en varibel vid senare tillfällen
-console.log(lastName);
+let lastName = "Jones"
+lastName = "Anderson" // Med let så kan vi ändra en varibel vid senare tillfällen
+console.log(lastName)
+
+const aa = 3
+const bb = 4
+const cc = 5
+console.log(bb > aa)
+console.log(bb >= cc)
+
+let z = 10
+console.log(z++)
+console.log(z++)
+
+
+console.log(true && true)
+console.log(true && false)
+console.log(false && true)
+
+console.log(true || true)
+console.log(true || false)
+console.log(false || false)
+
+console.log(!true)
