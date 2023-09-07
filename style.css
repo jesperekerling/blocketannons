@@ -111,7 +111,6 @@ button:hover {
     100% {
         background-color: #1500d4;
         font-weight: bold;
-        padding-top: 5rem;
     }
 }
 div.exempeldiv-animation {
@@ -119,9 +118,9 @@ div.exempeldiv-animation {
     height: 300px;
     background-color: red;
     animation-name: example;
-    animation-duration: 40s;
+    animation-duration: 3s;
     animation-iteration-count: infinite;
     color: white;
     text-align: center;
-    padding-top: 3rem;
+    padding-top: 5rem;
 }
