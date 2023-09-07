@@ -38,3 +38,9 @@ const pi = 3.141592653589793;
 const radius = 10;
 const area = radius * radius * pi;
 console.log(area);
+
+
+const u = 2;
+const i = "2"
+console.log(u == i);
+console.log(u === i);
