@@ -99,3 +99,4 @@ const user = {
 }
 console.log(user.name.firstName + user.brithYear);
 
+console.log(2023-user.brithYear);
