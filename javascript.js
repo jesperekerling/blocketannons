@@ -15,3 +15,8 @@ const isProgammingBoring = false;
 const doesProgrammingRequireHardWork = true;
 console.log(isProgammingBoring);
 console.log(doesProgrammingRequireHardWork);
+
+let theFuture;
+console.log(theFuture);
+const sometingsAreValueLess = null
+console.log(sometingsAreValueLess);
