@@ -20,3 +20,9 @@ let theFuture;
 console.log(theFuture);
 const sometingsAreValueLess = null
 console.log(sometingsAreValueLess);
+
+const age = 37;
+const firstName = "Jesper";
+console.log(firstName);
+console.log(firstName + " is " + age + " years old and cool");
+
