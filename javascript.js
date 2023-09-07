@@ -71,3 +71,31 @@ console.log(true || false)
 console.log(false || false)
 
 console.log(!true);
+
+
+const favoriteDrink = "Coffee"
+const message1 = `My favorite drink ${favoriteDrink}, every day of the week`
+console.log(message1);
+
+
+let coronaYear = 2020
+coronaYear--; // coronaYear = coronaYear - 1
+console.log(coronaYear);
+
+coronaYear = 2020
+coronaYear++; // coronaYear = coronaYear + 1
+console.log(coronaYear);
+coronaYear++; // coronaYear = coronaYear + 1
+console.log(coronaYear);
+
+
+const user = {
+    age: 20,
+    brithYear: 1985,
+    name: {
+        firstName: "Jesper",
+        lastName: "Jones"
+    }
+}
+console.log(user.name.firstName + user.brithYear);
+
